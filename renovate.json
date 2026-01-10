@@ -17,7 +17,7 @@
     "enabled": true
   },
   "maven": {
-    "enabled": false
+    "enabled": true
   },
   "customManagers": [
     {
@@ -37,7 +37,7 @@
       "matchUpdateTypes": [
         "major"
       ],
-      "enabled": false,
+      "enabled": true
       "matchPackageNames": [
         "*"
       ]
