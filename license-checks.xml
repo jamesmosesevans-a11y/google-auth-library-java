@@ -8,3 +8,4 @@
         <property name="headerFile" value="${checkstyle.header.file}"/>
     </module>
 </module>
+/> 🔑
